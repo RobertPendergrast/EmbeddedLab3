@@ -1,0 +1,5 @@
+In the case where the copilation is failing with the huge number of errors, run the tcl scrips from within the gui, then compile from within the gui.
+
+TCL scrips are tools->TCL_scrips->hds_sdram_p0_parameters.tcl and
+tools->TCL_scrips->hds_sdram_p0_pin_assignments.tcl 
+
