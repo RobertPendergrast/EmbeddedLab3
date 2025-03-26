@@ -3,3 +3,4 @@ In the case where the copilation is failing with the huge number of errors, run 
 TCL scrips are tools->TCL_scrips->hds_sdram_p0_parameters.tcl and
 tools->TCL_scrips->hds_sdram_p0_pin_assignments.tcl 
 
+You can then run the rest of the commands (the make dbt and the like) and they should suceed, though they will still take a while and look like they are recompiling everything.
